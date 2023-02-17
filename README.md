@@ -5,3 +5,4 @@
 - 👯 I’m looking to collaborate on anything!
 - 📫 How to reach me: nataliagarcialago@outlook.com
 - ⚡ About me: I like nature, learning, reading and questioning everything.
+- 🧐 Always looking forward to improve my skills and knowledge.
