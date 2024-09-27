@@ -1,8 +1,8 @@
 - ❤  Python lover
-- 👀 Looking for a job as a Data Analyst
-- 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning PowerBI, PySpark and more Python 
+- ❄️ Snowflake specialist
+- 🔭 I’m currently working as Data Engineer in Bluetab, an IBM Company
+- 🌱 I’m always learning
 - 👯 I’m looking to collaborate on anything!
-- 📫 How to reach me: nataliagarcialago@outlook.com
+- 📫 How to reach me: nataliagarcialago@gmail.com
 - ⚡ About me: I like nature, learning, reading and questioning everything.
 - 🧐 Always looking forward to improve my skills and knowledge.
