@@ -1,6 +1,6 @@
-- ❤  Python lover
-- ❄️ Snowflake specialist
-- 🔭 I’m currently working as Data Engineer in Bluetab, an IBM Company
+- ❤  I started as a Python developer, but now i'm completely in love with Scala and Spark 
+- ❄️ Snowflake specialist, but working on becoming a Databricks specialist too. 
+- 🔭 I’m currently working as Data Engineer in Gestamp
 - 🌱 I’m always learning
 - 👯 I’m looking to collaborate on anything!
 - 📫 How to reach me: nataliagarcialago@gmail.com
